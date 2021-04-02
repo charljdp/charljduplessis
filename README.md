@@ -1,6 +1,2 @@
 Hi 👋, I’m Charl du Plesis, 
-I enjoy working in Python and learning any new language.
-My experience and knowledge includes:
-  * PostGres SQL
-  * Embarcadero Delphi
-  * BigQuery SQL
+I am a developer and data analyst with experience in programming in Delphi, Python and BigQuery SQL development. I am open for any open source projects.
